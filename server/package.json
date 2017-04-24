@@ -1,0 +1,24 @@
+{
+  "name": "EmailService-Server",
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-register": "^6.24.1",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "courier-js": "^2.0.8",
+    "debug": "~2.6.3",
+    "errorhandler": "^1.5.0",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "nodemailer": "^4.0.1",
+    "oy-vey": "^0.8.0",
+    "serve-favicon": "~2.4.2"
+  },
+
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node app.js"
+  }
+}
