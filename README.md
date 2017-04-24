@@ -8,6 +8,6 @@ Instructions:
 
 3)Go to /Server Directory and do npm start
 
-4)On the server side, all email account credentials in /config/config.json
+4)On the server side, enter your email account credentials in /config/config.json
 
 
